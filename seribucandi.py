@@ -1,0 +1,1 @@
+print('terus we kerjaan kayak projek seribu candi')
